@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap');
+
+* {
+    margin: 0 0;
+}
+
+body {
+    background-color: rgb(1, 6, 25);
+    margin-bottom: 90px;
+}
+
+.about {
+    background-image: url("image/main_background.jpeg");
+    /* background-color: rgb(60, 60, 60); */
+    height: 680px;
+    padding: 60px 0 60px 0;
+    margin-top: 110px;
+}
+
+.skills {
+    border-radius: 80px 0 80px 0;
+    position: absolute;
+    /* background-color: rgb(43, 34, 51); */
+    background-image: linear-gradient(rgb(36, 40, 73), rgba(0, 0, 0, 0.786));
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 50%;
+    animation: flight 6s infinite;
+    margin-left: 220px;
+}
+
+.title {
+    background-color: rgb(58, 98, 133);
+    border-bottom: 5px solid #4b0fa5;
+    border-top: 5px solid #0f96a5;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 80px 0;
+}
+
+.title h1 {
+    color: rgb(22, 228, 255);
+    font-family: "Edu NSW ACT Cursive", cursive;
+    margin: 0;
+    font-size: 50px;
+}
+
+.description {
+    background-color: rgba(0, 0, 0, 0);
+    height: 360px;
+    margin-top: 20px;
+}
+
+.description p {
+    margin-left: 20px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    color: rgb(141, 85, 255);
+}
+
+.description span {
+    color: rgb(16, 136, 0);
+}
+
+.photo {
+    left: 960px;
+    margin-top: 310px;
+    background-color: rgb(5, 5, 5);
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 60px 60px 60px 0;
+    animation: photo_flight 6s infinite;
+    overflow: hidden;
+}
+
+.photo img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 60px 60px 60px 0;
+    animation: fade 12s infinite;
+    opacity: 0;
+}
+
+.photo .img1 {
+    animation-delay: 0s;
+}
+
+.photo .img2 {
+    animation-delay: 6s;
+}
+
+.main {
+    background-image: url("image/main_background_reverse.jpeg");
+    height: 800px;
+    padding: 60px 0 60px 0;
+    margin-top: 80px;
+}
+
+.main .skills {
+    margin-left: 600px;
+    background-image: linear-gradient(rgba(73, 36, 36, 0.525), rgba(0, 0, 0, 0.913));
+    height: 700px;
+    width: 65%;
+    border-radius: 0 80px 0 80px;
+}
+
+.main .title {    
+    background-image: linear-gradient(rgba(73, 36, 36, 0.525), rgba(0, 0, 0, 0.913));
+    border-bottom: 5px solid #0a0036;
+    border-top: 5px solid #424242;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 0 80px;
+
+}
+
+.main .title h1{    
+    color: rgb(214, 255, 253);
+}
+
+.main .photo {
+    margin-left: 650px;
+    top: 1280px;
+    width: 150px;
+    height: 150px;
+    border-radius: 60px 60px 60px 0;
+}
+
+.main span {
+    color: rgb(242, 255, 0);
+}
+
+.border {
+    color: aliceblue;
+    background-color: rgb(149, 0, 255);
+}
+
+@keyframes fade {
+    0%   { opacity: 0; }
+    10%  { opacity: 1; }
+    40%  { opacity: 1; }
+    50%  { opacity: 0; }
+    100% { opacity: 0; }
+}
+
+@keyframes flight {
+    0%   { margin-top: 0px; }
+    50% { margin-top: 20px; }
+    100%   { margin-top: 0px; }
+}
+
+@keyframes photo_flight {
+    0%   { margin-top: 310px; }
+    50% { margin-top: 330px; }
+    100%   { margin-top: 310px; }
+}
