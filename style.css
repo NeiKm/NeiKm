@@ -149,7 +149,7 @@ body {
 } */
 
 /* Обычные телефоны (включая S20 FE) */
-@media (max-width: 1000px) {
+@media (max-width: 1080px) {
     body {
         background-color: rgb(0, 0, 0);
     }
