@@ -29,7 +29,7 @@ to make Python do tricks it normally can’t 🤸‍♂️
 
 ---
 
-## 🪟 Desktop development  
+## ;) Desktop development  
 A short but insightful adventure:
 
 - wrote simple C# programs (WinForms/WPF)  
