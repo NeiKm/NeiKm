@@ -1,4 +1,7 @@
 # ✨️ Hi! I’m Kirill  
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,py,html,css,cpp,django,fask,qt,fastapi,figma,git,mysql" />
+</p>
 
 ---
 
