@@ -1,23 +1,20 @@
-<h1 align="center">
-<pre>
-██╗  ██╗██╗██████╗ ██╗██╗     ██╗     
-██║ ██╔╝██║██╔══██╗██║██║     ██║     
-█████╔╝ ██║██████╔╝██║██║     ██║     
-██╔═██╗ ██║██╔══██╗██║██║     ██║     
-██║  ██╗██║██║  ██║██║███████╗███████╗
-╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝.
-</pre>
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=Nei_km&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
+
+</div>
 
 <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeiKm&layout=compact&theme=radical&langs_count=7" width="40%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NeiKm&show_icons=true&theme=radical" width="48%" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,py,html,css,cpp,c,django,flask,fastapi,qt,git,mysql,github,lua,arduino,figma,md,robloxstudio&perline=9" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlexFromNorth/AlexFromNorth/6fd8d4c891a959b1756c9f694702f3c61c25853f/assets/github-snake.svg" />
-</p>
-
----
+</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 
 ### 👾 ОБО МНЕ
 > Я живу в **Южной Корее (Чхонан)** 🇰🇷
@@ -25,77 +22,45 @@
 >
 > Учусь в специализированной старшей школе 천안상업고등학교, на факультете веб-разработки.
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 
-### 💻 ЧТО Я ДЕЛАЮ
-> Я не делю направления на "перспективные" и "не перспективные".
-> **Если мне интересно (и не лень;) ==> я пробую.**
->
-> Вообщем занимаюсь всем чем интересно, у меня нет определенного направления. Перепробовал уже много чего: от написания программ на Python до разработки библиотек для того же Python на C++. От 2д игр на Pygame до 3д игр на ray-casting алгоритме. От написания программ на C# до C++(dll) + Python инджекта в процессы. От сайтов с бд и всеми делами, до js-инъекций и посылания запросов серверам (в образовательных целях).
-> Если кратко, то перепробовал я кучу всего, но так и не стал гуру ни в одном деле ;c
+```python
+class Time:
+    def __init__(self):
+        self.moment = "Now"
+
+    def tick(self):
+        pass
+
+class Developer:
+    def __init__(self):
+        self.knowledge = ["Python", "C++", "JS"...]
+        self.experience = 0
+
+    def update_system(self):
+        print("Upgrading... Version: Tomorrow_You")
+
+class You(Developer):
+    def __init__(self):
+        super().__init__()
+        self.time_bank = time.time()
+
+    def live(self, global_time):
+        if global_time.moment == "Later":
+            raise TimeoutError("Error: 'Later' does not exist.")
+
+        self.update_system()
+        self.experience += 1
+```
 
 `Coding💜` `Gym💜` `Money💜` `Friends💜` `Motorcycles💜`
 
----
-
-### 🔧 НИЗКИЙ УРОВЕНЬ / СИСТЕМЫ
-* C++ DLL и модули
-* Связка C++ ↔ Python (pybind11)
-* Исследование поведения серверов
-* Образовательные JS-инъекции 🤞
-
-* Это не взлом ==> это любопытство.*
-
----
-
-### 🤖 EMBEDDED / ARDUINO
-* Проекты на Arduino (C)
-* Сенсоры, сервоприводы
-* *Момент, когда наконец-то заработала бесполезная система, потрясающий ✨*
-
----
-
-### 🎮 ИГРЫ
-Я играю я в основном в реальные игры, но и не против сыграть пару каток в кс ;1. А так, если интересно во что играю в реальности, то ниже список:
-
-* **Футбол** — играю часто!
-* **Волейбол** — к сожалению, только когда выпадает возможность.
-* **Баскетбол** — раньше часто играл.
-* **Бильярд** — если есть стол, зовите!
-* **Бадминтон** — весело.
-* **Боулинг** — тут я иногда показываю мастер-класс, а иногда и 70 баллов набираю с трудом.
-* **Вышибалы** — когда мяч сдутый, эта игра спасает.
-* **UNO!!!!** — я гений этой игры!!!!
-* **Дротики** — тоже иногда весело.
-* **Шахматы** — 650 эло 😎
-
----
-
-### 💜 ЖИЗНЬ ВНЕ КОДА
-* Армрестлинг ❄️
-* Борьба ❄️
-* Футбол ❄️
-* Силовые тренировки ❄️
-
-> Спорт учит терпению.
-> Если ты пережил последний тяжёлый повтор — ты переживёшь любой баг.
-> — *цитата от меня xD*
-
----
-
-### 🎯 ЦЕЛИ
-1.  Стать сильным специалистом.
-2.  Создать собственные IT-проекты.
-3.  Поступить в хороший университет.
-4.  Изучать все, что интересно, потому что интересно ;1.
-
----
-
-### 🚀 OUTRO
-> Пробую новое.
-> Улучшаю старое.
-> Ломаю случайно.
-> Чиню намеренно.
-> — *Еще одна цитата от меня ;)*
+<img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 
 В моих репозиториях вы найдете все, что мне было не лень выкладывать 👾
+<div align="right">
+  <a href="https://github.com/kawarimidoll/typograssy">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=KIM.KIRILL.RUSLANOVICH.&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188" width="30%">
+  </a>
+</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
