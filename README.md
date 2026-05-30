@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,html,css,cpp,django,flask,fastapi,qt,git,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,cpp,c,django,flask,fastapi,qt,git,mysql,github,lua,arduino,figma,md,robloxstudio&perline=9" />
 </p>
 
 <p align="center">
