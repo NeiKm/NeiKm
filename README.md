@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeiKm&layout=compact&theme=radical&langs_count=7" width="40%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeiKm&layout=compact&theme=radical&langs_count=7&hide=Cython" width="40%"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NeiKm&show_icons=true&theme=radical" width="48%" />
 </p>
 
