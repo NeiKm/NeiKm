@@ -53,7 +53,7 @@ class You(Developer):
         self.experience += 1
 ```
 
-`Coding💜` `Gym💜` `Money💜` `Friends💜` `Motorcycles💜` `samgyeopsal💜`
+`Coding💜` `Gym💜` `Money💜` `Friends💜` `Motorcycles💜` `Samgyeopsal💜`
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 
