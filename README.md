@@ -12,7 +12,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,html,css,cpp,c,django,flask,fastapi,qt,git,mysql,github,lua,arduino,figma,md,robloxstudio&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,cpp,c,django,flask,fastapi,qt,git,mysql,github,lua,arduino,figma,md,linux,robloxstudio,sqlite&perline=10" />
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 
