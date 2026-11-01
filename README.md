@@ -58,9 +58,4 @@ class You(Developer):
 <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
 
 В моих репозиториях вы найдете все, что мне было не лень выкладывать 👾
-<div align="right">
-  <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=KIM.KIRILL.RUSLANOVICH.&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188" width="30%">
-  </a>
-</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%">
